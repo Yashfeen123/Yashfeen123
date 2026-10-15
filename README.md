@@ -1,4 +1,4 @@
-![]()
+![rLinkedIn Banner.png]()
 
 <h1 align="center">Hi 👋, I'm Yashfeen Noori</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
