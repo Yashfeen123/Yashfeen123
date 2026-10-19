@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yashfeen Noori</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **AI-Driven Response System Using Deep Learning forAmbulance and Hospital optimization**
+- 🔭 I’m currently working on **AI-Driven Response System Using Deep Learning for Ambulance and Hospital optimization**
 
 - 📫 How to reach me **nooriyashfeen@gmail.com**
 
